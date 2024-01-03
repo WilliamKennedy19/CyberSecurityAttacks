@@ -1,0 +1,8 @@
+Timestamp- Date/time of the incoming packet
+Source IP Address- Where the data packets originated from
+Destination IP Address - Where the data packets were sent to
+Source Port- Port the data was sent from
+Destination Port- Port the data was sent to
+Protocol- The type of protocol the packet sent(ICMP,UDP,SMTP,FTP,etc)
+Packet Length- Length in bits
+Packet Type- 
